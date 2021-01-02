@@ -1,0 +1,14 @@
+.info{
+    margin: 80px;
+    font-family: cursive;
+    font-size: 45px;
+}
+
+.links:hover  {
+    background-color: cadetblue;
+    cursor: pointer;
+}
+img{
+    height: 255px;
+    width: 225px;
+}
